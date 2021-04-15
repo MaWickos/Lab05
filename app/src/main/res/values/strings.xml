@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab05</string>
+
+    <!-- Dodane napisy -->
+    <string name="editTextNazwaZapisz"> Nazwa pliku </string>
+    <string name="przyciskZapisz"> Zapisz </string>
+    <string name="przyciskCzytaj"> Czytaj </string>
+</resources>
